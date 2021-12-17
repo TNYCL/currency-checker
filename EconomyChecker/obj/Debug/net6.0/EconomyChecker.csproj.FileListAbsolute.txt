@@ -1,0 +1,16 @@
+/Users/tnycl/Desktop/Masaüstü/Projeler/CSharp/EconomyChecker/EconomyChecker/bin/Debug/net6.0/EconomyChecker.deps.json
+/Users/tnycl/Desktop/Masaüstü/Projeler/CSharp/EconomyChecker/EconomyChecker/bin/Debug/net6.0/EconomyChecker.runtimeconfig.json
+/Users/tnycl/Desktop/Masaüstü/Projeler/CSharp/EconomyChecker/EconomyChecker/bin/Debug/net6.0/EconomyChecker.dll
+/Users/tnycl/Desktop/Masaüstü/Projeler/CSharp/EconomyChecker/EconomyChecker/bin/Debug/net6.0/ref/EconomyChecker.dll
+/Users/tnycl/Desktop/Masaüstü/Projeler/CSharp/EconomyChecker/EconomyChecker/bin/Debug/net6.0/EconomyChecker.pdb
+/Users/tnycl/Desktop/Masaüstü/Projeler/CSharp/EconomyChecker/EconomyChecker/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/tnycl/Desktop/Masaüstü/Projeler/CSharp/EconomyChecker/EconomyChecker/obj/Debug/net6.0/EconomyChecker.csproj.AssemblyReference.cache
+/Users/tnycl/Desktop/Masaüstü/Projeler/CSharp/EconomyChecker/EconomyChecker/obj/Debug/net6.0/EconomyChecker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tnycl/Desktop/Masaüstü/Projeler/CSharp/EconomyChecker/EconomyChecker/obj/Debug/net6.0/EconomyChecker.AssemblyInfoInputs.cache
+/Users/tnycl/Desktop/Masaüstü/Projeler/CSharp/EconomyChecker/EconomyChecker/obj/Debug/net6.0/EconomyChecker.AssemblyInfo.cs
+/Users/tnycl/Desktop/Masaüstü/Projeler/CSharp/EconomyChecker/EconomyChecker/obj/Debug/net6.0/EconomyChecker.csproj.CoreCompileInputs.cache
+/Users/tnycl/Desktop/Masaüstü/Projeler/CSharp/EconomyChecker/EconomyChecker/obj/Debug/net6.0/EconomyChecker.csproj.CopyComplete
+/Users/tnycl/Desktop/Masaüstü/Projeler/CSharp/EconomyChecker/EconomyChecker/obj/Debug/net6.0/EconomyChecker.dll
+/Users/tnycl/Desktop/Masaüstü/Projeler/CSharp/EconomyChecker/EconomyChecker/obj/Debug/net6.0/ref/EconomyChecker.dll
+/Users/tnycl/Desktop/Masaüstü/Projeler/CSharp/EconomyChecker/EconomyChecker/obj/Debug/net6.0/EconomyChecker.pdb
+/Users/tnycl/Desktop/Masaüstü/Projeler/CSharp/EconomyChecker/EconomyChecker/obj/Debug/net6.0/EconomyChecker.genruntimeconfig.cache

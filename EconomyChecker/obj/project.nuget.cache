@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ggNGf6/8JaHhWmJa6xk8Uf+ixvr9Ma6Lx290FTdGq1zyCdZbQ81NuoF+VfvAB7dkOLckEn/+ZBSvRqzWyKX/Jg==",
+  "success": true,
+  "projectFilePath": "/Users/tnycl/Desktop/Masaüstü/Projeler/CSharp/EconomyChecker/EconomyChecker/EconomyChecker.csproj",
+  "expectedPackageFiles": [
+    "/Users/tnycl/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
